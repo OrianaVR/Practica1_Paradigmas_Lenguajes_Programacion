@@ -3,6 +3,7 @@
 practice.hs
 
 Participantes:
+
 -Mariana Echeverri Ramirez 
 
 -Nawal Oriana Valoyes Renteria
