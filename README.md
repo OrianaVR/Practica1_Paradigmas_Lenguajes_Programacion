@@ -13,4 +13,6 @@ El siguiente código permite al usuario ver la hora de entrada, salida y tiempo 
 A continuación le dejamos el video de sustentación explicando el código y su funcionamiento.
 
 Video de sustentación
-https://youtu.be/3edhmYjV38M
+parte 1: https://youtu.be/39hAi4luuFU
+parte 2 : https://youtu.be/JgDca9PYbfQ
+
